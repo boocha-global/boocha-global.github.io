@@ -1,12 +1,14 @@
 facebook.com, 1953763124938106, DIRECT, c3e20eee3f780d68
 google.com, pub-1801408216613473, DIRECT, f08c47fec0942fa0
 google.com, pub-9058291854443881, RESELLER, f08c47fec0942fa0
+google.com, pub-9296372483561531, DIRECT, f08c47fec0942fa0
 telaria.com, rwd19-2214291, RESELLER, 1a4e959a1b50034a
 tremorhub.com, rwd19-2214291, RESELLER, 1a4e959a1b50034a
 inmobi.com, 16600394d82645eeb37cd25e32849684, DIRECT, 83e75a7ae333ca9d
 outbrain.com, 00bba279fec6daa01a0cb6fdccb023f0d5, RESELLER
 pubmatic.com, 159035, RESELLER, 5d62403b186f2ace
 pubmatic.com, 158738, RESELLER, 5d62403b186f2ace
+google.com, pub-4686405784285870, DIRECT, f08c47fec0942fa0
 improvedigital.com, 1532, RESELLER
 verve.com, 5897, RESELLER, 0c8f5958fc2d6270
 rubiconproject.com, 12266, RESELLER, 0bfd66d529a55807
