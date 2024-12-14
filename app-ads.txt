@@ -4,6 +4,11 @@ unrulymedia.com, 1058378980, RESELLER
 unrulymedia.com, 682817271102171104, RESELLER
 unrulymedia.com, 7093244032824963982, RESELLER
 rhythmone.com, 962111114, RESELLER, a670c89d4a324e47
+indexexchange.com, 191497, RESELLER, 50b1c356f2c5c8fc
+appnexus.com, 11450, RESELLER, f5ab79cb980f11d1
+unrulymedia.com, 962111114, RESELLER
+video.unrulymedia.com, 3795567838, RESELLER
+video.unrulymedia.com, 7823643795310613975, RESELLER
 rhythmone.com, 682817271102171104, RESELLER, a670c89d4a324e47
 rhythmone.com, 7093244032824963982, RESELLER, a670c89d4a324e47
 triplelift.com, 12210, RESELLER, 6c33edb13117fd86
